@@ -90,5 +90,6 @@ def main():
         current_day
     )
     print("The person's age in days is:", result)
-if __name__ == "__main__":
+    
+if __name__ == "__main__": #basically if this is the main file being run, then run the main function
     main()
